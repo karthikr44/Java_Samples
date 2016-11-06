@@ -42,7 +42,7 @@ public class HelloWorld{
      public static void main(String []args){
         System.out.println("Hello World");
         
-        MyLinkedList li = new MyLinkedList(); 
+        MyArrayList li = new MyArrayList(); 
         
         li.append(10); 
         li.append(20); 
