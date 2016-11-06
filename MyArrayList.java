@@ -1,4 +1,4 @@
-class MyLinkedList {
+class MyArrayList {
  int[] arr = new int[10]; 
  int size = 0; 
  
